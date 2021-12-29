@@ -29,6 +29,10 @@ plt.figure(figsize=(20,15))
 sns.heatmap(x.corr(), annot = True, cmap="coolwarm")
 plt.show() 
 
+# make model simpler by removing highly correlated variables (remove one of the two highly correlated variables) 
+
+x = x.drop(["area_mean","radius_worst","perimeter_worst","area_worst"], axis = 1)
+
 # graph of each variable
 
 for i in x:
