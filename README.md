@@ -19,6 +19,6 @@ Comparison of radius mean for metastatic vs benign tumors in data:
 
 ![Radius Mean](https://user-images.githubusercontent.com/84477747/149400348-f1c11b8a-08f8-4ee0-b481-a9b194d29ab6.png)
 
-Terminal output:
+Terminal output demonstrating accuracy of each model:
 
 ![Output of Code](https://user-images.githubusercontent.com/84477747/149400585-d15e6a52-d27b-4654-9ad8-b086c4e5c7a2.jpg)
