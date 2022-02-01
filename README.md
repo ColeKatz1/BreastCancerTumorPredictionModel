@@ -1,5 +1,5 @@
 # Breast Cancer Malignant vs Benign Tumor Prediction Model
-This project uses tumor data collected from approximately 600 patients and uses machine learning to predict if these tumors are benign or malignant. The program uses logistic regression, SVC linear, SVC rbf, decision tree, and random forest as methods to acheive this prediciton. The model uses variables such as the mean radius, mean concavity, and mean smoothness among others that were deemed important to make its predictions. Models types share similar accuracy with each model consistenly acheiving greater than 90% accuracy in predicting if tumors are malignant or benign.
+This project uses tumor data collected from approximately 600 patients and uses machine learning to predict if these tumors are benign or malignant. The program uses logistic regression, SVC linear, SVC rbf, decision tree, and random forest as methods to acheive this prediciton. The model uses variables such as the mean radius, mean concavity, and mean smoothness of the tumor among other variables that were deemed important to make its predictions. Models types share similar accuracy with each model consistenly acheiving greater than 90% accuracy in predicting if tumors are malignant or benign.
 
 Examples of code output:
 
